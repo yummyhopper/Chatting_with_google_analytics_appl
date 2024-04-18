@@ -15,7 +15,7 @@ What kind of system prompt etc is needed to make the LLM respond in the appropri
 ### APIs + Data
 
 Libraries: 
-- python-dotenv
+- dotenv
 - langchain
 - openai
 - anthropic
