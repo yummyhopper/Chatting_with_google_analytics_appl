@@ -14,8 +14,6 @@ What kind of system prompt etc is needed to make the LLM respond in the appropri
 
 ### APIs + Data
 
-What kinds of information are going to be needed to generate responses, e.g. certain kinds of documents, a database/api access to stock information 
-
 Libraries: 
 - python-dotenv
 - langchain
